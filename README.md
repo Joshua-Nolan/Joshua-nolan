@@ -13,7 +13,7 @@ Based in Manchester, UK 🇬🇧
 
 
 ## 🛠️ Tech Stack
-
+-
 ### 🧠 AI, Machine Learning & MLOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Orange?style=flat)
@@ -36,7 +36,6 @@ Based in Manchester, UK 🇬🇧
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
 ## 🎓 Education & Background
-
 * 📜 **BSc Computer Science** (First-Class Honours) | *Lancaster University*
 * 🏆 **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image.
 * 🔬 **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts.
