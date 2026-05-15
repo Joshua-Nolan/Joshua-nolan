@@ -9,8 +9,8 @@ Based in Manchester, UK 🇬🇧 (open to relocating)
 
 ## 🚀 What I'm Working On
 
-* 🏢 **AI Developer @ Rapiscan Systems:** Spearheading bespoke commercial LLM/RAG solutions, researching CNNs for X-ray threat detection, and managing technical deliverables for international EU Horizon Europe programs[cite: 11, 13, 15, 18].
-* 🛡️ **Sentinel (Personal Project):** Building an AI-powered SOC assistant that uses a multi-agent **LangGraph** pipeline to autonomously investigate cybersecurity incidents using RAG, vector search, and threat intel APIs[cite: 8, 9, 10].
+* 🏢 **AI Developer @ Rapiscan Systems:** Spearheading bespoke commercial LLM/RAG solutions, researching CNNs for X-ray threat detection, and managing technical deliverables for international EU Horizon Europe programs.
+* 🛡️ **Sentinel (Personal Project):** Building an AI-powered SOC assistant that uses a multi-agent **LangGraph** pipeline to autonomously investigate cybersecurity incidents using RAG, vector search, and threat intel APIs.
 
 ## 🛠️ Tech Stack
 
