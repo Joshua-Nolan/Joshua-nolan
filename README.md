@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=AI+Developer+%F0%9F%A4%96;Computer+Vision+Engineer+%F0%9F%90%85;LLM+%26+RAG+Specialist+%F0%9F%A7%A0" alt="Typing SVG" />
+</p>
 # Hi there, I'm Josh! 👋 🤖
 
 I am an **AI Developer** specializing in high-stakes **Computer Vision** and **Generative AI**. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning. 
@@ -39,6 +42,13 @@ Based in Manchester, UK 🇬🇧 (open to relocating)
 * 🏆 **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image.
 * 🔬 **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts.
 
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nolan-josh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Josh's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolan-josh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+</p>
 ---
 
 ## 🤝 Connect with Me
@@ -46,4 +56,14 @@ Based in Manchester, UK 🇬🇧 (open to relocating)
 * 💼 [Connect on LinkedIn](https://www.linkedin.com/in/joshua-nolan-/) 
 * 📧 Reach out via Email: joshuapnolan03@gmail.com
 * ⚡ *Fun Fact:* When I'm not coding, you can find me listening to 60s-80s music, working out, or checking up on finance and investing.
+
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nolan-josh&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/nolan-josh/nolan-josh@output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
