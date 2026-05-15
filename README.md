@@ -13,7 +13,7 @@ Based in Manchester, UK 🇬🇧
 
 
 ## 🛠️ Tech Stack
---
+----
 ### 🧠 AI, Machine Learning & MLOps
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Orange?style=flat)
