@@ -4,7 +4,6 @@ I am an **AI Developer** specializing in high-stakes **Computer Vision** and **G
 
 Based in Manchester, UK 🇬🇧
 
----
 
 ## 🚀 What I'm Working On
 
