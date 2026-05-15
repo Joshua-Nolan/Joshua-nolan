@@ -7,8 +7,6 @@
 I am an **AI Developer** specializing in high-stakes **Computer Vision** and **Generative AI**. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning
 Based in Manchester, UK 🇬🇧 (open to relocating) 
 
----
-
 ## 🚀 What I'm Working On
 
 * 🏢 **AI Developer @ Rapiscan Systems:** Spearheading bespoke commercial LLM/RAG solutions, researching CNNs for X-ray threat detection, and managing technical deliverables for international EU Horizon Europe programs[cite: 11, 13, 15, 18].
