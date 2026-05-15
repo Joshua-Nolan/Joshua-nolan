@@ -1,18 +1,21 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=AI+Developer+%F0%9F%A4%96;Computer+Vision+Engineer+%F0%9F%90%85;LLM+%26+RAG+Specialist+%F0%9F%A7%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=AI+Developer+%F0%9F%A4%96;Computer+Vision+Engineer+%F0%9F%90%85;LLM+%26+RAG+%F0%9F%A7%A0" alt="Typing SVG" />
 </p>
+
 # Hi there, I'm Josh! 👋 🤖
 
-I am an **AI Developer** specializing in high-stakes **Computer Vision** and **Generative AI**. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning. 
+[cite_start]I am an **AI Developer** specializing in high-stakes **Computer Vision** and **Generative AI**[cite: 2]. [cite_start]From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning[cite: 2, 3]. 
 
-Based in Manchester, UK 🇬🇧 (open to relocating)
+[cite_start]Based in Manchester, UK 🇬🇧 (open to relocating) [cite: 6]
 
+---
 
 ## 🚀 What I'm Working On
 
-* 🏢 **AI Developer @ Rapiscan Systems:** Spearheading bespoke commercial LLM/RAG solutions, researching CNNs for X-ray threat detection, and managing technical deliverables for international EU Horizon Europe programs.
-* 🛡️ **Sentinel (Personal Project):** Building an AI-powered SOC assistant that uses a multi-agent **LangGraph** pipeline to autonomously investigate cybersecurity incidents using RAG, vector search, and threat intel APIs.
+* [cite_start]🏢 **AI Developer @ Rapiscan Systems:** Spearheading bespoke commercial LLM/RAG solutions, researching CNNs for X-ray threat detection, and managing technical deliverables for international EU Horizon Europe programs[cite: 11, 13, 15, 18].
+* [cite_start]🛡️ **Sentinel (Personal Project):** Building an AI-powered SOC assistant that uses a multi-agent **LangGraph** pipeline to autonomously investigate cybersecurity incidents using RAG, vector search, and threat intel APIs[cite: 8, 9, 10].
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -37,33 +40,32 @@ Based in Manchester, UK 🇬🇧 (open to relocating)
 ![AWS - Learning](https://img.shields.io/badge/AWS_(Learning)-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
+---
+
 ## 🎓 Education & Background
-* 📜 **BSc Computer Science** (First-Class Honours) | *Lancaster University*
-* 🏆 **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image.
-* 🔬 **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts.
+* 📜 **BSc Computer Science** (First-Class Honours) | [cite_start]*Lancaster University* [cite: 4, 38]
+* [cite_start]🏆 **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image[cite: 41, 42].
+* [cite_start]🔬 **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts[cite: 32, 34, 35].
 
+---
 
-## 📊 My GitHub Stats
+## 📊 My GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nolan-josh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Josh's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nolan-josh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nolan-josh&theme=tokyonight" alt="Josh's Profile Details" width="100%" />
 </p>
+
 ---
 
 ## 🤝 Connect with Me
 
 * 💼 [Connect on LinkedIn](https://www.linkedin.com/in/joshua-nolan-/) 
 * 📧 Reach out via Email: joshuapnolan03@gmail.com
-* ⚡ *Fun Fact:* When I'm not coding, you can find me listening to 60s-80s music, working out, or checking up on finance and investing.
-
+* [cite_start]⚡ *Fun Fact:* When I'm not coding, you can find me listening to 60s-80s music, working out, or checking up on finance and investing[cite: 31].
 
 <br/>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nolan-josh&theme=tokyonight&hide_border=true" alt="Activity Graph" width="100%" />
-</p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/nolan-josh/nolan-josh@output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nolan-josh&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nolan-josh&theme=tokyonight" width="48%" />
 </p>
-
