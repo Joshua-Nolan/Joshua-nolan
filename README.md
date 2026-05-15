@@ -43,7 +43,7 @@ Based in Manchester, UK 🇬🇧 (open to relocating)
 
 ## 🤝 Connect with Me
 
-* 💼 [Connect on LinkedIn](https://www.linkedin.com/in/nolan-josh/) *(Make sure to update this with your actual LinkedIn URL!)*
+* 💼 [Connect on LinkedIn]([https://www.linkedin.com/in/nolan-josh](https://www.linkedin.com/in/joshua-nolan-/)/) *(Make sure to update this with your actual LinkedIn URL!)*
 * 📧 Reach out via Email: joshuapnolan03@gmail.com
 * ⚡ *Fun Fact:* When I'm not coding, you can find me listening to 60s-80s music, working out, or checking up on finance and investing.
 
