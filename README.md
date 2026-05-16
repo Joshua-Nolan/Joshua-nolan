@@ -44,14 +44,6 @@ Currently based in Manchester, UK 🇬🇧 (open to relocating)
 
 ---
 
-## 📊 My GitHub Insights
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nolan-josh&theme=tokyonight" alt="Josh's Profile Details" width="100%" />
-</p>
-
----
-
 ## 🤝 Connect with Me
 
 * 💼 [Connect on LinkedIn](https://www.linkedin.com/in/joshua-nolan-/) 
