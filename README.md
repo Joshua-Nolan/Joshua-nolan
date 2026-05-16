@@ -36,13 +36,10 @@ Currently based in Manchester, UK 🇬🇧 (open to relocating)
 ![AWS - Learning](https://img.shields.io/badge/AWS_(Learning)-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 
-
 ## 🎓 Education & Background
 * 📜 **BSc Computer Science** (First-Class Honours) | [cite_start]*Lancaster University* 
 * 🏆 **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image
 * 🔬 **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts
-
----
 
 ## 🤝 Connect with Me
 
