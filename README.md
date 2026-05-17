@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=AI+Developer+%F0%9F%A4%96;Computer+Vision+Engineer+%F0%9F%90%85;LLM+%26+RAG+%F0%9F%A7%A0" alt="Typing SVG" />
-</p>
+# Hi there, I'm Josh! 👋
 
-# Hi there, I'm Josh! 👋 🤖
-
-I am an **AI Developer** specializing in high-stakes **Computer Vision** and **Generative AI**. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning
-
-Currently based in Manchester, UK 🇬🇧 (open to relocating) 
+**AI Developer** specializing in high-stakes **Computer Vision** and **Generative AI**. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning - Currently based in Manchester, UK 🇬🇧 (open to relocating) 
 
 ## 🚀 What I'm Working On
 
