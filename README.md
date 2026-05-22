@@ -1,47 +1,30 @@
-## About
-**AI Developer** specializing in high-stakes **Computer Vision** and **Generative AI**. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning - Currently based in Manchester, UK 🇬🇧 (open to relocating) 
+# 💫 About Me:
+AI Developer specializing in high-stakes Computer Vision and Generative AI. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning.<br>Currently based in Manchester, UK 🇬🇧 (open to relocating)
 
 ## What I'm Working On
-
-* 🏢 **AI Developer @ Rapiscan Systems:** Spearheading bespoke commercial LLM/RAG solutions, researching CNNs for X-ray threat detection, and managing technical deliverables for international EU Horizon Europe programs.
+* 🏢 **AI Developer @ Rapiscan Systems:**
 * 🛡️ **Sentinel (Personal Project):** Building an AI-powered SOC assistant that uses a multi-agent **LangGraph** pipeline to autonomously investigate cybersecurity incidents using RAG, vector search, and threat intel APIs.
 
-## 🛠️ Tech Stack
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshua-nolan-) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joshuapnolan03@gmail.com) 
 
-### AI, Machine Learning & MLOps
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Orange?style=flat)
-![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-Green?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-
-### Core Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat&logo=mathworks&logoColor=white)
-
-### DevOps & Cloud
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![AWS - Learning](https://img.shields.io/badge/AWS_(Learning)-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ## 🎓 Education & Background
 * **BSc Computer Science** (First-Class Honours) | [cite_start]*Lancaster University* 
 * **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image
 * **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts
 
-## 🤝 Connect with Me
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nolan-josh&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=nolan-josh&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nolan-josh&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-* 💼 [Connect on LinkedIn](https://www.linkedin.com/in/joshua-nolan-/) 
-* 📧 Reach out via Email: joshuapnolan03@gmail.com
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<br/>
+---
+[![](https://komarev.com/ghpvc/?username=nolan-josh&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nolan-josh&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nolan-josh&theme=tokyonight" width="48%" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
