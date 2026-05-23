@@ -20,8 +20,3 @@ AI Developer specializing in high-stakes Computer Vision and Generative AI. From
 ![](https://github-readme-stats.shion.dev/api?username=nolan-josh&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=nolan-josh&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=nolan-josh&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=nolan-josh&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
