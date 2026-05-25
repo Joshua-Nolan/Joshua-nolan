@@ -15,8 +15,3 @@ AI Developer specializing in high-stakes Computer Vision and Generative AI. From
 * **BSc Computer Science** (First-Class Honours) | [cite_start]*Lancaster University* 
 * **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image
 * **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=nolan-josh&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=nolan-josh&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=nolan-josh&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
