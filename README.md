@@ -1,4 +1,4 @@
-# 💫 About Me:
+#About:
 AI Developer specializing in high-stakes Computer Vision and Generative AI. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning.<br>Currently based in Manchester, UK 🇬🇧 (open to relocating)
 
 ## What I'm Working On
