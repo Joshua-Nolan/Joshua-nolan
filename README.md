@@ -2,7 +2,7 @@
 AI Developer specializing in high-stakes Computer Vision and Generative AI. From researching deep learning models for medical diagnostics to engineering advanced multi-agent security pipelines, I love solving complex problems with machine learning.<br>Currently based in Manchester, UK 🇬🇧 (open to relocating)
 
 ## What I'm Working On
-* 🏢 **AI Developer @ Rapiscan Systems:**
+* 🏢 **ML Engineer @ Rapiscan Systems:**
 * 🛡️ **Sentinel (Personal Project):** Building an AI-powered SOC assistant that uses a multi-agent **LangGraph** pipeline to autonomously investigate cybersecurity incidents using RAG, vector search, and threat intel APIs.
 
 # 💻 Tech Stack:
@@ -15,3 +15,4 @@ AI Developer specializing in high-stakes Computer Vision and Generative AI. From
 * **BSc Computer Science** (First-Class Honours) | [cite_start]*Lancaster University* 
 * **100% Final Score Dissertation:** Created a *Caloric Value Estimator* using CNNs and volume estimation to predict food calories from a single image
 * **Former Research Assistant:** Developed deep learning segmentation models (CNNs) for early-stage glaucoma detection and implemented Bayesian uncertainty quantification for clinical contexts
+* AI Software Developer @ Rapiscan Systems Jan 2025 - May 2026 
